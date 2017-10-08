@@ -1,0 +1,28 @@
+body {
+    margin: 10px;
+    border: solid 1px red;
+    text-align: center;
+}
+
+header {
+    background-color: #1b6d85;
+    border-radius: 20px;
+    margin: auto;
+    width: 80%;
+}
+
+.tete {
+    background-color: #2B2E31;
+    border-radius: 10px;
+    height: 80px;
+    color: #00b3fe;
+}
+
+main {
+    margin: auto;
+    width: 80%;
+}
+.main2 {
+    border: solid 1px black;
+    height: 100px;
+}
