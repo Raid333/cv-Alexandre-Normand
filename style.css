@@ -6,3 +6,8 @@
 .name:hover {
     box-shadow: 3px 3px 15px;
 }
+main .row div {
+    background-color: #8b5957;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
