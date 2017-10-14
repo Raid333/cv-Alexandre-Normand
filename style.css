@@ -1,14 +1,22 @@
 
 .name {
-    background-color: aquamarine;
+    background-color: #3f51b5;
     box-shadow: 1px 1px 10px;
+    color: white;
+    border-radius: 10px;
 }
 .name:hover {
     box-shadow: 3px 3px 15px;
 }
 main .row div {
-    background-color: #8b5957;
+    background-color: #757de8;
     border-radius: 10px;
     padding-bottom: 10px;
+    border: solid 1px black;
 }
-
+header a {
+    color: white;
+}
+header a:hover {
+    color: #757de8;
+}
