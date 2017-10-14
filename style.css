@@ -4,6 +4,7 @@
     box-shadow: 1px 1px 10px;
     color: white;
     border-radius: 10px;
+    font-family: 'Quicksand', sans-serif;
 }
 .name:hover {
     box-shadow: 3px 3px 15px;
@@ -19,4 +20,13 @@ header a {
 }
 header a:hover {
     color: #757de8;
+}
+main h3, a {
+    font-family: 'Quicksand', sans-serif;
+}
+ul, li {
+    font-family: 'Rubik', sans-serif;
+}
+main p {
+    font-family: 'Rubik', sans-serif;
 }
