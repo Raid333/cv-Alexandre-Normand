@@ -30,3 +30,8 @@ ul, li {
 main p {
     font-family: 'Rubik', sans-serif;
 }
+@media screen and (max-width: 980px){
+header .test {
+    margin-top: 50px;
+
+}}
